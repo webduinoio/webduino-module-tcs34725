@@ -1,0 +1,15 @@
+{
+  "types": ["tcs34725_new", "tcs34725_on", "tcs34725_value", "tcs34725_off"],
+  "category": "catMenu3",
+  "scripts": [
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "dependencies": [
+    "TCS34725.js",
+    "TCS34725-blockly.js"
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "webduino-module-tcs34725",
+  "description": "TCS34725 Module for Webduino",
+  "main": "TCS34725.js",
+  "authors": "",
+  "license": "ISC",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "tcs34725"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "webduino-module-tcs34725",
+  "version": "1.0.0",
+  "description": "TCS34725 Module for Webduino",
+  "main": "TCS34725.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "tcs34725"
+  ],
+  "dependencies": {
+    "webduino-js": "0.x"
+  }
+}

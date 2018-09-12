@@ -1,0 +1,16 @@
+<category id="catTCS34725" tags="fly,smart">
+  <block type="variables_set">
+    <field name="VAR">tcs34725</field>
+    <value name="VALUE">
+      <block type="tcs34725_new">
+        <field name="sda">10</field>
+        <field name="scl">11</field>
+      </block>
+    </value>
+  </block>
+  <block type="tcs34725_on">
+    <value name="do"></value>
+  </block>
+   <block type="tcs34725_val"></block>
+  <block type="tcs34725_off"></block>
+</category>
