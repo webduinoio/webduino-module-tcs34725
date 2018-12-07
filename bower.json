@@ -3,7 +3,7 @@
   "description": "TCS34725 Module for Webduino",
   "main": "TCS34725.js",
   "authors": "",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [
     "arduino",
     "webduino",
